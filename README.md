@@ -40,7 +40,7 @@ This is a **Node.js + Express** backend project that demonstrates a secure **aut
 
 ```bash
 git clone https://github.com/your-username/auth-role-based-api.git
-cd auth-role-based-api
+cd auth-learn-project
 npm install
 ```
 
