@@ -27,11 +27,14 @@ This is a **Node.js + Express** backend project that demonstrates a secure **aut
 
 ---
 
-- Set Up .env File
-Create a .env file in the root folder:
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECREAT_KEY=your_jwt_secret
+## Set Up .env File
+
+ - Create a .env file in the root folder:
+ - PORT=5000
+ - MONGO_URI=your_mongodb_connection_string
+ - JWT_SECREAT_KEY=your_jwt_secret
+
+   
 
 ### Clone the Repository
 
