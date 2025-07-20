@@ -27,16 +27,29 @@ This is a **Node.js + Express** backend project that demonstrates a secure **aut
 
 ---
 
-## 🚀 Getting Started
-
 ### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/auth-role-based-api.git
 cd auth-role-based-api
+2. Install Dependencies
+bash
+Copy
+Edit
 npm install
+3. Set Up .env File
 Create a .env file in the root folder:
+
+ini
+Copy
+Edit
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECREAT_KEY=your_jwt_secret
-nodemon index.js.
+4. Run the Server
+bash
+Copy
+Edit
+node index.js
+# or
+nodemon index.js
