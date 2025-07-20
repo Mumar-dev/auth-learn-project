@@ -1,10 +1,10 @@
-# 🛡️ Auth Role-Based API – Token + Cookie Authorization
+#  Auth Role-Based API – Token + Cookie Authorization
 
 This is a **Node.js + Express** backend project that demonstrates a secure **authentication system** using **JWT tokens stored in HTTP-only cookies**, with **role-based access control** for different user types: `buyer`, `seller`, and `admin`.
 
 ---
 
-## 📚 Features
+##  Features
 
 - ✅ User Signup with hashed passwords (bcrypt)
 - ✅ User Login with JWT token generation
@@ -16,7 +16,7 @@ This is a **Node.js + Express** backend project that demonstrates a secure **aut
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - **Node.js**
 - **Express**
